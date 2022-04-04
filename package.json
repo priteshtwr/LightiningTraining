@@ -1,0 +1,7 @@
+{
+  "name": "com.mca.project1",
+  "description": "project1",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.1"
+  }
+}
